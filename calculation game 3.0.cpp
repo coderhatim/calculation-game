@@ -1,4 +1,4 @@
-//calculation game 4.0
+//calculation game 3.0
 #include <iostream>
 #include <cstdlib>
 #include <ctime>

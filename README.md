@@ -1,3 +1,72 @@
+# Math Challenge Game
+
+**Version 3.0**
+
+A thrilling, interactive math game designed to sharpen your calculation and problem-solving skills. With the addition of a timer and six exciting game modes, the latest version is packed with challenges and fun for players of all levels.
+
+---
+
+## Key Features
+
+- **Timer Integration**: Implementing a timer in linear, line-by-line execution was a challenge, but it's now seamlessly incorporated into multiple modes for added excitement.
+- **Six Engaging Modes**: Test your skills across a variety of gameplay styles.
+- **Detailed Stats in Practice Mode**: Track your performance to enhance your skills.
+- **Custom Timer Options**: Personalise your experience in Time Blast mode.
+
+---
+
+## Game Modes
+
+### 1. Classic
+- A simple mode to test your basic calculation skills.
+
+### 2. Endless
+- No time limits! Keep answering questions and score as much as you can.
+
+### 3. Double or Nothing
+- Double your score with each correct answer. But beware: a single wrong answer will cost you everything!
+
+### 4. Quiz
+- A series of multiple-choice questions with a 20-second timer for each. Test your overall knowledge and answer quickly!  *(Note: Enter the answer, not the options.)*
+
+### 5. Time Blast
+- Answer as many questions as possible before time runs out! 
+  - **Timer Options**:
+    1. 60 seconds (Short)
+    2. 180 seconds (Default)
+    3. 300 seconds (Long)
+    4. Custom
+
+### 6. Practice
+- No timers, no penalties! Practice questions at your own pace and view detailed performance stats, including:
+  - Total time spent
+  - Average time per question
+  - Total questions attempted
+  - Total correct/incorrect answers
+  - Breakdown of correct answers by type (Addition, Subtraction, Multiplication, Division)
+
+---
+
+## What’s New in Version 3.0?
+
+- **Timer Integration**: Added timers to create dynamic gameplay across modes.
+- **Three Timer Levels and Custom Timer** in Time Blast mode.
+- **Practice Mode Stats**: Get detailed insights into your performance after practice sessions.
+- **Six Unique Modes**: Introduced more variety to keep the game engaging.
+
+---
+
+
+## Feedback and Contributions
+
+Have suggestions or want to contribute? Feel free to raise an issue or submit a pull request.
+
+Enjoy playing Math Challenge Game Version 3.0!
+
+---
+---
+---
+
 # Calculation Game 2.0
 
 Calculation Game 2.0 is an engaging, logic-driven math game designed to challenge your arithmetic skills across multiple difficulty levels. Players can choose from a variety of modes and operations to test their abilities in addition, subtraction, multiplication, and division. The game offers an intuitive menu system and dynamic gameplay modes, making it a great tool for both learning and entertainment.
